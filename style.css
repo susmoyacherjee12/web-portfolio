@@ -82,3 +82,8 @@
    border-image: linear-gradient(rgb(1, 39, 41),rgb(89, 71, 255));
    border-image-slice:1 ;
  }
+ .copyright{
+   text-align: center;
+   padding-bottom: 5px  ;
+   font-weight: 600 ;
+ }
