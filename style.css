@@ -1,6 +1,7 @@
  body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
+    
  }
  h1{
     font-size: 50px;
@@ -33,4 +34,26 @@
  }
  section{
    height: 500px;
+ }
+ .mrg{
+   margin-top: 10px;
+   background-image:url("img/dream-bg.png");
+   background-repeat: no-repeat;
+   background-position: right;
+ }
+ .sec-width{
+   width: 40%;
+   float: left;
+   margin-left: 5pc;
+ }
+ .sec-width h1{
+   font-size: 40px;
+ }
+ .resume{
+   text-decoration: none;
+   background-image: linear-gradient(45deg ,lightsalmon,tomato);
+   padding: 10px 20px;
+   border-radius: 5px;
+   color: white;
+   font-size: 700;
  }
