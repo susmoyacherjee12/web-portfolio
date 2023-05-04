@@ -57,3 +57,28 @@
    color: white;
    font-size: 700;
  }
+ .text-algn{
+   text-align: center;
+   margin-right: 25px;
+ }
+ .single-experience{
+   box-shadow: 10px 10px 40px rgb(26, 12, 51);
+   border-radius: 5px;
+   height: 55%;
+ }
+ .ecperience-area{
+   background-image: url(img/exp-bg.png);
+   background-repeat: no-repeat;
+   background-position: left;
+   
+ }
+ #left-id{
+   border-left: 7px solid blue;
+   border-image: linear-gradient(rgb(0, 247, 255),rgb(89, 71, 255));
+   border-image-slice:1 ;
+ }
+ #left-ids{
+   border-left: 7px solid blue;
+   border-image: linear-gradient(rgb(1, 39, 41),rgb(89, 71, 255));
+   border-image-slice:1 ;
+ }
