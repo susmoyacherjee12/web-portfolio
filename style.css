@@ -1,5 +1,6 @@
  body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
  }
  h1{
     font-size: 50px;
@@ -18,5 +19,18 @@
    width: 100%;
  }
  .hire-btn{
-   width: 100px;
+   text-decoration: none;
+   background-image:linear-gradient(45deg, lightsalmon, tomato);
+   padding: 10px 20px;
+   border-radius: git5px;
+   font-weight: 700;
+   color: white;
+ }
+ .top-banner{
+   background-image: url("img/top-banner.png");
+   background-repeat: no-repeat;
+   
+ }
+ section{
+   height: 500px;
  }
